@@ -1,0 +1,13 @@
+body {
+  background: olivedrab;
+}
+body h1 {
+  color: white;
+  font: 100px/1 "arial";
+}
+body p {
+  color: white;
+  font: 40px/1 "arial";
+}
+
+/*# sourceMappingURL=style.css.map */
